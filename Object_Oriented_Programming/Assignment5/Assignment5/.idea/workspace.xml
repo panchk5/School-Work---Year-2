@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0bf25ec-b1cd-4f9e-bb61-485dbc6deb64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_Course_Outline/SFWRENG_2OP3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_Course_Outline/SFWRENG_2OP3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_Course_Outline/SFWRENG_2OP3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_Course_Outline/SFWRENG_2OP3.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_Course_Outline/SFWRENG_2OP3.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q2_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2_Sort2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3_RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4_TransposeMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q3_TransposeMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5_GetMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Q1_JavaTV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Q2_LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6/src/Q2_LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_Lectures/Lecture15/Lecture15.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_Lectures/Lecture15/Lecture15.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_Lectures/Lecture16/Lecture16.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_Lectures/Lecture16/Lecture16.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_Lectures/Lecture16/Lecture16_Code/src/mutils/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_Lectures/Lecture16/Lecture16_Code/src/mutils/Card.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ui6bW75T7UErTr5RSOp3ov1wtA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Q2_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2_TwoSum" />
+      <module name="Assignment5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q2_TwoSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0bf25ec-b1cd-4f9e-bb61-485dbc6deb64" name="Changes" comment="" />
+      <created>1693410125549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693410125549</updated>
+      <workItem from="1693410126691" duration="135000" />
+      <workItem from="1693410878705" duration="3000" />
+      <workItem from="1698001401454" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
