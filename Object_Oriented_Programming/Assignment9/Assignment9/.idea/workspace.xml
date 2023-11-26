@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f67c7fde-e19c-4fdd-8882-486adb5a0fca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment1/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backup/Assignment1/.idea/Assignment1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/Assignment1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/Assignment1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/Assignment1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment10/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment10/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/Assignment10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment10/Assignment10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/out/production/Assignment10/Q1_SetByArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/out/production/Assignment10/Q2_SetByArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/out/production/Assignment10/m_SetByArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/out/production/Assignment10/m_SetByArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/src/Q1_SetByArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/src/Q2_SetByArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/Assignment11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/out/production/Assignment11/Q1_MapByBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/out/production/Assignment11/mutils/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/out/production/Assignment11/mutils/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/src/Q1_TreeMapByBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/src/Q2_WordCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/src/data/JingleBell.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/src/data/Output_Example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/src/mutils/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment11/src/mutils/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/Assignment2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/Assignment2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Answers/A1_HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Answers/A2_SumTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Answers/A3_DivideTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Answers/A4_AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Answers/A5_PrintPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Q1_HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Q2_SumTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Q3_DivideTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Q4_AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/Q5_PrintPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Answers/A1_HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Answers/A2_SumTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Answers/A3_DivideTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Answers/A4_AreaOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Answers/A5_PrintPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Q1_HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Q2_SumTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Q3_DivideTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Q4_AreaOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Q5_PrintPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/Assignment3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3/Assignment3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Answers/A1_ExpressionSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Answers/A2_Decimal2Octal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Answers/A3_PlayWithInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Answers/A4_FindNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Answers/A5_DisplayNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Q1_ExpressionSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Q2_Decimal2Octal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Q3_PlayWithInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Q4_FindNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/Q5_DisplayNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/Assignment4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4/Assignment4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Answers/A1_SolveQuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Answers/A2_ShowRhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Answers/A3_AlphabeticPhoneNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Answers/A4_GuessNumberGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Q1_SolveQuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Q2_ShowRhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Q3_AlphabeticPhoneNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/out/production/Assignment4/Q4_GuessNumberGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Answers/A1_SolveQuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Answers/A2_ShowRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Answers/A3_AlphabeticPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Answers/A4_GuessNumberGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Q1_SolveQuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Q2_ShowRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Q3_AlphabeticPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Q4_GuessNumberGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/Assignment5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/Assignment5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Q1_FindMinimum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Q2_LambdaExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Q3_People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Q4_PrintArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Q5_Roman2Integer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/Assignment6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6/Assignment6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Assignment6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Q1_TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Q2_Sort2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Q3_RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Q4_TransposeMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/src/Q5_GetMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment7/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Assignment7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment7/Assignment7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/out/production/Assignment5/Answers/A1_JavaTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/out/production/Assignment5/Answers/A2_LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/out/production/Assignment5/Answers/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/src/Answers/A1_JavaTV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/src/Answers/A2_LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/src/Q1_JavaTV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/src/Q2_LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/Assignment8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment8/Assignment8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Answers/A1_DiceGambling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Answers/A2_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Answers/Dice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Answers/Gambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Answers/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Dice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Gambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Q1_DiceGambling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment6/Q2_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment8/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/out/production/Assignment8/Q2_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/src/Answers/A1_DiceGambling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/src/Answers/A2_BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/src/Q1_DiceGambling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/src/Q2_BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment7/Answers/A1_OrderedLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment7/Answers/A2_TraverseTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment7/BinTree/A2_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment7/BinTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment7/LKList/A2_LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment7/LKList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment7/Q1_OrderedLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment8/Answers/A1_OrderedLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment8/Answers/A2_TraverseTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment8/BinTree/A2_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment8/BinTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment8/LKList/A2_LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment8/LKList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment8/Q1_OrderedLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/Answers/A1_OrderedLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/Answers/A2_TraverseTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/BinTree/A2_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/BinTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/LKList/A2_LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/LKList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/Q1_OrderedLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment9/Q2_TraverseTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Answers/A1_OrderedLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Answers/A2_TraverseTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinTree/A2_BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinTree/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LKList/A2_LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LKList/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1_OrderedLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2_TraverseTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/Assignment10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/out/production/Assignment10/Q1_SetByArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/out/production/Assignment10/Q2_SetByArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/out/production/Assignment10/m_SetByArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/out/production/Assignment10/m_SetByArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/src/Q1_SetByArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment10/src/Q2_SetByArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/Assignment11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/out/production/Assignment11/Q1_MapByBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/out/production/Assignment11/mutils/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/out/production/Assignment11/mutils/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/src/Q1_TreeMapByBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/src/Q2_WordCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/src/data/JingleBell.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/src/data/Output_Example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/src/mutils/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment11/src/mutils/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/Assignment2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Answers/A1_HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Answers/A2_SumTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Answers/A3_DivideTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Answers/A4_AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Answers/A5_PrintPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Q1_HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Q2_SumTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Q3_DivideTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Q4_AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/out/production/Assignment2/Q5_PrintPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/src/Q1_HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/src/Q2_SumTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/src/Q3_DivideTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/src/Q4_AreaOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment2/src/Q5_PrintPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/Assignment3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/src/Q1_ExpressionSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/src/Q2_Decimal2Octal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/src/Q3_PlayWithInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/src/Q4_FindNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment3/src/Q5_DisplayNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/Assignment4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/src/Q1_SolveQuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/src/Q2_ShowRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/src/Q3_AlphabeticPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment4/src/Q4_GuessNumberGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/Assignment5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/src/Q1_FindMinimum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/src/Q2_LambdaExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/src/Q3_People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/src/Q4_PrintArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment5/src/Q5_Roman2Integer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/Assignment7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/src/Q1_JavaTV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment7/src/Q2_LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/Assignment8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/src/Q1_DiceGambling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment8/src/Q2_BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/Assignment9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/src/BinTree/A2_BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/src/BinTree/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/src/LKList/A2_LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/src/LKList/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/src/Q1_OrderedLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/Assignment9/src/Q2_TraverseTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/Assignment5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/src/Q1_FindMinimum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/src/Q2_LambdaExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/src/Q3_People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/src/Q4_PrintArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UPLOAD_NO_ANSWERS/backup/Assignment5/src/Q5_Roman2Integer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_Lectures/Lecture01/Lecture1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_Lectures/Lecture01/Lecture1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_Lectures/Lecture01/Lecture1.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_Lectures/Lecture01/Lecture1.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_Lectures/Lecture15/Lecture15_old.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodation_Summary.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Cook, Allison . 400300768.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Dunn, Cameron . 400296848.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Fatima, Nawaal . 400315202.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Guo, Nai Shan . 400316377.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Harris, Jenna . 400172659.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Jawad, Muhammad . 400330872.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Liang, Gigi . 400318814.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Mikhail, Moly . 400313464.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Miller, Matthew . 400328012.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Motala, Sufyan . 400307042.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Sahi, Ahmed . 400337776.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/Accommodations for Sigayev, Yevgeniy . 400340452.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/SFWRENG 2OP3_Final_Exam_Accommodation.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/2021/password.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/Accommodation_Letter_with_Groups (3).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/Accommodation_Letter_with_Groups.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/Accommodation_Summary.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_Accommodation/FINAL_EXAM_SFWRENG 2OP3 (Online)_S@Sf#22Accom.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Siyang/Example_Lecture_Materials.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Siyang/TextBook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/13_BUFFER.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/Forest.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Ball$Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Bark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Canine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Crivitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Eggs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Forest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/MultiCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Pass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/SimpleCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Sixties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Titanic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/Yippee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/test$Dogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/out/production/13_BUFFER/buffer/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Canine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Crivitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Eggs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Forest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/MultiCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Pass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/SimpleCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Sixties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Titanic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/Yippee2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13_BUFFER/src/buffer/test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ui7ODCkVOTrPSHCioAfIXQCxuN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Q2_SetByArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2_SetByArray" />
+      <module name="Assignment9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q2_SetByArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f67c7fde-e19c-4fdd-8882-486adb5a0fca" name="Changes" comment="" />
+      <created>1693410513047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693410513047</updated>
+      <workItem from="1693410514281" duration="161000" />
+      <workItem from="1693410901423" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
